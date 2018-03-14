@@ -6319,8 +6319,6 @@ hm.com##.cookie-notification
 hm.com##.is-hidden-webview.js-viewport-offset-element.js-l-header.l-header:style(position: relative !important;)
 hm.com##.vngage-active.vngage-open.vngage-tabbanner.vngage-banner:style(position: absolute !important;)
 hm.com##body:style(overflow-x: hidden !important; overflow-y: auto !important;)
-hn.algolia.com###main > .ng-scope.container > .main > .ng-scope:nth-of-type(1):style(position: relative !important; top: 0 !important;)
-hn.algolia.com##.page-header:style(position: relative !important; top: 0 !important;)
 hoax-slayer.net###eu_cookie_law_widget-2
 hoax-slayer.net###navigation:style(position: absolute !important; top: 0 !important;)
 hoaxorfact.com###go-top
