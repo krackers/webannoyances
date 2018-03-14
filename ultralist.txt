@@ -11877,33 +11877,6 @@ redding.com##.site-nav-social-link.site-nav-icon-link.site-nav-first-secondary-l
 redding.com##.site-nav-social-link.site-nav-icon-link.site-nav-link-theme-dark-blue.site-nav-link
 redding.com##.story-tools
 redding.com##.utility-bar-wrap
-reddit.com###header-bottom-right:style(position: absolute !important;)
-reddit.com###jumpToContent
-reddit.com###sr-header-area:style(position: relative !important; width: 100% !important;)
-reddit.com##.DualPartInterstitialFooter
-reddit.com##.DualPartInterstitial__common
-reddit.com##.DualPartInterstitial__content
-reddit.com##.NavFrame__below-top-nav:style(padding-top: 0px !important;)
-reddit.com##.SmartBanner
-reddit.com##.TopNav:style(position: relative !important;)
-reddit.com##.TransparentOverlay
-reddit.com##.TransparentOverlay__overlay
-reddit.com##.XPromoListingClickModal
-reddit.com##.commentsignupbar.infobar
-reddit.com##.dfp-ad-container
-reddit.com##.fixed.active.read-next
-reddit.com##.listingsignupbar.infobar
-reddit.com##.newsletter-container.newsletterbar.infobar
-reddit.com##.seo-comments
-reddit.com##.seo-comments-recommendations.spacer
-reddit.com##.side:style(position: relative !important;)
-reddit.com##.splash-design.splash_wrapper
-reddit.com##.tabmenu:style(position: relative !important;)
-reddit.com##.welcome.infobar
-reddit.com##body::before:style(position: relative !important; height: 0px !important;)
-reddit.com##body:style(overflow-x: hidden !important; overflow-y: auto !important;)
-reddit.com##ol:style(position: relative !important;)
-reddit.com##script:inject(set-constant.js,isPinned,true)
 redditblog.com##.footer-share
 redditblog.com##.header-social
 redditgifts.com##.js-header-main.header-main:style(position: absolute !important;)
